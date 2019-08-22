@@ -1,0 +1,256 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/aa460h/GitRepository/testProject/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+10 items
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> /Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/TestLambdaFunction.class
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> /Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$1.class
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> /Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$2.class
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> /Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$3.class
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> /Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$4.class
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> /Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$main$1.class
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> /Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$main$2.class
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> /Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$main$3.class
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> /Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$main$4.class
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> /Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util.class
+binary dependencies:
+8 items
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> /Users/aa460h/.ivy2/cache/com.amazonaws/aws-lambda-java-core/jars/aws-lambda-java-core-1.2.0.jar
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> /Users/aa460h/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.2.11.jar
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> /Users/aa460h/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> /Users/aa460h/.ivy2/cache/com.amazonaws/aws-java-sdk-core/jars/aws-java-sdk-core-1.11.375.jar
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> /Users/aa460h/.ivy2/cache/com.amazonaws/aws-java-sdk-s3/jars/aws-java-sdk-s3-1.11.349.jar
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> /Users/aa460h/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+10 items
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> com.test.ipdev.TestLambdaFunction
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> com.test.ipdev.aws_s3_util
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> com.test.ipdev.aws_s3_util$$anonfun$1
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> com.test.ipdev.aws_s3_util$$anonfun$2
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> com.test.ipdev.aws_s3_util$$anonfun$3
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> com.test.ipdev.aws_s3_util$$anonfun$4
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> com.test.ipdev.aws_s3_util$$anonfun$main$1
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> com.test.ipdev.aws_s3_util$$anonfun$main$2
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> com.test.ipdev.aws_s3_util$$anonfun$main$3
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> com.test.ipdev.aws_s3_util$$anonfun$main$4
+used names:
+130 items
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> +
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> <init>
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> Any
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> AnyRef
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> Context
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> DefaultFormats
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> LambdaLogger
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> Map
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> NonFatal
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> Object
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> Predef
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> String
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> TestLambdaFunction
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> Unit
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> amazonaws
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> apply
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> com
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> context
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> control
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> env
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> formats
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> getLogger
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> ipdev
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> json4s
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> lambda
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> org
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> package
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> println
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> runtime
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> scala
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> services
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> sys
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> tableName
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> test
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> util
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> ++
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> <init>
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> <repeated>
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> ==
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> A
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> AmazonS3
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> AmazonS3Client
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> AmazonS3ClientBuilder
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Any
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> AnyRef
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Array
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> AsScala
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> B
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Boolean
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Buffer
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> CanBuildFrom
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Coll
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Date
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Decorators
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Failure
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Function1
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> GenTraversableOnce
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Int
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Integer
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> JavaConverters
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> List
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> ListObjectsV2Request
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> ListObjectsV2Result
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Nothing
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Object
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Predef
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Regions
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> S3ObjectSummary
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Seq
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> String
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Success
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> That
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Try
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> U
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> UUID
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> Unit
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> a
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> amazonaws
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> apply
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> asScala
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> asScalaBufferConverter
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> aws_s3_util
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> bucket
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> canBuildFrom
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> collection
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> com
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> cond1
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> cond2
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> endsWith
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> f1
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> f2
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> filter
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> foreach
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> getKey
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> getNextContinuationToken
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> getObjectSummaries
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> immutable
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> int2Integer
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> ipdev
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> isTruncated
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> java
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> keys
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> listObjects
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> listObjectsV2
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> map
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> model
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> mutable
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> newKeys
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> objectListResponse
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> package
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> prefix
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> println
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> regions
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> request
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> s
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> s3
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> scala
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> services
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> size
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> test
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> toList
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> util
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> vv
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> while$1
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> withBucketName
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> withContinuationToken
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> withMaxKeys
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> withPrefix
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> x
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> ||
+product stamps:
+10 items
+/Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/TestLambdaFunction.class -> lastModified(1561063368000)
+/Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$1.class -> lastModified(1561063368000)
+/Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$2.class -> lastModified(1561063368000)
+/Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$3.class -> lastModified(1561063368000)
+/Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$4.class -> lastModified(1561063368000)
+/Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$main$1.class -> lastModified(1561063368000)
+/Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$main$2.class -> lastModified(1561063368000)
+/Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$main$3.class -> lastModified(1561063368000)
+/Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util$$anonfun$main$4.class -> lastModified(1561063368000)
+/Users/aa460h/GitRepository/testProject/target/scala-2.11/classes/com/test/ipdev/aws_s3_util.class -> lastModified(1561063368000)
+source stamps:
+3 items
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestClass.scala -> hash(05e632269c2a2822fb7b45ae8f0561e0a7797332)
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> hash(5ecde9d3de125b6309df7d2962267f8435e6462d)
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> hash(07e8c634432645fb5aee950cc6045135d56e7dc1)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1530951661000)
+/Users/aa460h/.ivy2/cache/com.amazonaws/aws-java-sdk-core/jars/aws-java-sdk-core-1.11.375.jar -> lastModified(1532653189000)
+/Users/aa460h/.ivy2/cache/com.amazonaws/aws-java-sdk-s3/jars/aws-java-sdk-s3-1.11.349.jar -> lastModified(1529108810000)
+/Users/aa460h/.ivy2/cache/com.amazonaws/aws-lambda-java-core/jars/aws-lambda-java-core-1.2.0.jar -> lastModified(1511295129000)
+/Users/aa460h/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.2.11.jar -> lastModified(1414113034000)
+/Users/aa460h/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/aa460h/.ivy2/cache/com.amazonaws/aws-java-sdk-core/jars/aws-java-sdk-core-1.11.375.jar -> com.amazonaws.regions.Regions
+/Users/aa460h/.ivy2/cache/com.amazonaws/aws-java-sdk-s3/jars/aws-java-sdk-s3-1.11.349.jar -> com.amazonaws.services.s3.model.ListObjectsV2Request
+/Users/aa460h/.ivy2/cache/com.amazonaws/aws-lambda-java-core/jars/aws-lambda-java-core-1.2.0.jar -> com.amazonaws.services.lambda.runtime.LambdaLogger
+/Users/aa460h/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.2.11.jar -> org.json4s.DefaultFormats$
+/Users/aa460h/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Array
+internal apis:
+3 items
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestClass.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuCFR6gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAAc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFrdqCWvnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3Rvcnl0ABJMamF2YS9sYW5nL1N0cmluZztMAA9zb3VyY2VEaXJlY3RvcnlxAH4AGnhwdABBL1VzZXJzL2FhNDYwaC9HaXRSZXBvc2l0b3J5L3Rlc3RQcm9qZWN0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQF5jImnCooIvt7Ra6PBWHgp3lzMg==
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwL7+j1AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCRimKUdAAHZm9ybWF0c3VxAH4ACQAAABZzcQB+AAtzLgZ2dAAGbm90aWZ5c3EAfgALoA13y3QABHdhaXRzcQB+AAsyq5vMdAANJGFzSW5zdGFuY2VPZnNxAH4ACxmxkM90AAZlcXVhbHNzcQB+AAtnjVNJdAANaGFuZGxlUmVxdWVzdHNxAH4AC2Rln5B0AAxhc0luc3RhbmNlT2ZzcQB+AAtdRUQqdAAMc3luY2hyb25pemVkc3EAfgALKyiUwXQADSRpc0luc3RhbmNlT2ZzcQB+AAupL929dAAJbm90aWZ5QWxsc3EAfgALXQ4U8nQADGlzSW5zdGFuY2VPZnNxAH4ACwTWWj10AAY8aW5pdD5zcQB+AAvvfGI3dAACPT1zcQB+AAtFCXGtdAAFY2xvbmVzcQB+AAt6lChSdAASVGVzdExhbWJkYUZ1bmN0aW9uc3EAfgALHk98bHQACHRvU3RyaW5nc3EAfgALSdOntXQAAiE9c3EAfgALNagNLXQACGdldENsYXNzc3EAfgALEQB8GnQAAm5lc3EAfgALA/JGZ3QAAmVxc3EAfgALdGD+pnQAAiMjc3EAfgALpNkEtHQACGZpbmFsaXplc3EAfgAL3Df6a3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAIWNvbS50ZXN0LmlwZGV2LlRlc3RMYW1iZGFGdW5jdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBdc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AYnNxAH4AXXVxAH4AQAAAAABzcQB+AF11cQB+AEAAAAAAc3EAfgBddXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB6dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7c3EAfgBudAADQW55c3EAfgByc3EAfgB1dXEAfgB4AAAAAnNxAH4AenQABXNjYWxhcQB+AIF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAhjb20udGVzdHNxAH4Ai3QAA2NvbXNxAH4Ai3QADmNvbS50ZXN0LmlwZGV2c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFrdqCWvnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEEvVXNlcnMvYWE0NjBoL0dpdFJlcG9zaXRvcnkvdGVzdFByb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFF7N6dPeEltjCd99KWImf4Q15kYt
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw3qjzUQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwuRaRJHQABm5vdGlmeXNxAH4ADLOK0Bp0AAR3YWl0c3EAfgAMFmRIDnQADSRhc0luc3RhbmNlT2ZzcQB+AAxcF1XadAAGZXF1YWxzc3EAfgAMOU14aXQAC2F3c19zM191dGlsc3EAfgAMspse4nQADGFzSW5zdGFuY2VPZnNxAH4ADLfNQeJ0AAxzeW5jaHJvbml6ZWRzcQB+AAyRVLKvdAANJGlzSW5zdGFuY2VPZnNxAH4ADHYeU1V0AARtYWluc3EAfgAMpeVcG3QACW5vdGlmeUFsbHNxAH4ADM2wO190AAxpc0luc3RhbmNlT2ZzcQB+AAw7RC0GdAAGPGluaXQ+c3EAfgAMrcZMIHQAAj09c3EAfgAMoOvzqnQABWNsb25lc3EAfgAMkiv+2HQACHRvU3RyaW5nc3EAfgAMCvasFnQAAiE9c3EAfgAML57oYnQACGdldENsYXNzc3EAfgAMIaFfqHQAAm5lc3EAfgAM9ysvOnQAAmVxc3EAfgAMC/b9TnQAAiMjc3EAfgAMUTt/SnQACGZpbmFsaXplc3EAfgAMIoJdGXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGmNvbS50ZXN0LmlwZGV2LmF3c19zM191dGlsdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBgc3EAfgBbdXEAfgA+AAAAAHNxAH4AW3VxAH4APgAAAABzcQB+AFt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHlzcQB+AGx0AANBbnlzcQB+AHBzcQB+AHN1cQB+AHYAAAACc3EAfgB4dAAFc2NhbGFxAH4Af3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACGNvbS50ZXN0c3EAfgCJdAADY29tc3EAfgCJdAAOY29tLnRlc3QuaXBkZXZzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWt2oJa+dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQS9Vc2Vycy9hYTQ2MGgvR2l0UmVwb3NpdG9yeS90ZXN0UHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUB+jGNEMmRfta7pUMxgRRNdVufcE=
+external apis:
+0 items
+source infos:
+3 items
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestClass.scala -> 
+AAAAAAAAAAA=
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/TestLambdaFunction.scala -> 
+AAAAAAAAAAA=
+/Users/aa460h/GitRepository/testProject/src/main/scala/com/test/ipdev/aws_s3_util.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa3aglr51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9Vc2Vycy9hYTQ2MGgvR2l0UmVwb3NpdG9yeS90ZXN0UHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

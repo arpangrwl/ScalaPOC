@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.gu:scanamo-formats_2.11:1.0.0-M6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.gu/scanamo-formats_2.11/jars/scanamo-formats_2.11-1.0.0-M6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.gu/scanamo-formats_2.11/srcs/scanamo-formats_2.11-1.0.0-M6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
